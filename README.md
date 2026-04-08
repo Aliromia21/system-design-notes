@@ -9,5 +9,6 @@ Each note follows the same structure: what it is, when to use it, trade-offs, an
 ### Fundamentals
 - [Horizontal vs Vertical Scaling](fundamentals/horizontal-vs-vertical-scaling.md)
 - [Load Balancers](fundamentals/load-balancers.md)
+- [CDN (Content Delivery Network)](fundamentals/cdn.md)
 
 *More topics added daily.*
