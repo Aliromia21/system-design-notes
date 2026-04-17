@@ -10,5 +10,7 @@ Each note follows the same structure: what it is, when to use it, trade-offs, an
 - [Horizontal vs Vertical Scaling](fundamentals/horizontal-vs-vertical-scaling.md)
 - [Load Balancers](fundamentals/load-balancers.md)
 - [CDN (Content Delivery Network)](fundamentals/cdn.md)
+- [DNS (Domain Name System)](fundamentals/dns.md)
+- [CAP Theorem](fundamentals/cap-theorem.md)
 
 *More topics added daily.*
