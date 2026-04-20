@@ -13,4 +13,5 @@ Each note follows the same structure: what it is, when to use it, trade-offs, an
 - [DNS (Domain Name System)](fundamentals/dns.md)
 - [CAP Theorem](fundamentals/cap-theorem.md)
 - [Database Indexing](fundamentals/database-indexing.md)
+
 *More topics added daily.*
